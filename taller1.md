@@ -58,8 +58,10 @@ Por ultimo subimos los archivos creados en local:
 
 Pruebas de funcionamiento:
 >Proceso seguido en GitBash
+
 ![](img/4pruebafuncionamiento.png)
 
 >Prueba de GitHub
+
 ![](img/4pruebafuncionamiento2.png)
 
