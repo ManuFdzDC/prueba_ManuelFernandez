@@ -45,6 +45,9 @@
   ![image](https://github.com/ManuFdzDC/prueba_manuelfernandez/assets/144890528/7a554fbb-026f-4bed-a4ba-03cc853363a3)
 
 - Sincronizo con el repositorio remoto y compruebo que esta la rama.
+
+  ![image](https://github.com/ManuFdzDC/prueba_manuelfernandez/assets/144890528/d1ef81c5-b053-4088-bd45-4c17b01b5d5f)
+
   
 
 
